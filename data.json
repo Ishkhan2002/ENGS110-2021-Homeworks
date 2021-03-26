@@ -1,0 +1,16 @@
+{ 
+	"user_data" : { 
+		"Age": "",
+		"Gender": "",
+		"Height": "",
+		"Weight": "",
+		"Level_of_Activity": ["Low", " Medium", " High"]
+	},
+	"exercises":[
+		"running",
+		"pushup",
+		"pullup",
+		"squats"
+
+	]
+}
