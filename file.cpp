@@ -17,7 +17,6 @@ int main (void)
 	fscanf(fp, "%d" ,ptr );
 	while(fscanf(fp, "%d" ,ptr ) != EOF )
 	{
-		printf("%d \n", *ptr);
 		sum = sum + *ptr;
 	}
 	printf("%d \n", sum);
